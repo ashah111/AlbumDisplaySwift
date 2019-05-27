@@ -5,7 +5,6 @@
 //  Created by Ayushi shah on 2019-01-04.
 //  Copyright © 2019 Ayushi shah. All rights reserved.
 //
-^as
 import Foundation
 import UIKit
 
